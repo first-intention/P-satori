@@ -1,7 +1,6 @@
- body {
-     background-color:rgba(243, 238, 234, 0.986);
-     
- }
+img {
+ background-image:cover;
+}
 
 .top-label{
     height:100px;
