@@ -1,17 +1,1 @@
-head {
- height:500px;
- width:100%;
-}
 
-img {
- background-image:cover;
- 
-}
-
-.top-label{
-    height:100px;
-    background-color:rgba(153, 118, 73, 0.7);
-    color:white;
-    text-align:center;
-    position:fixed;
-}
